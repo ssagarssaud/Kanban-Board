@@ -5,7 +5,7 @@ This project provides a basic Kanban board implementation with drag-and-drop fun
 # Setup Instructions
 
 1. Prerequisites: Ensure you have Node.js and npm (or yarn) installed on your system.
-2. Clone the Repository: Clone this repository using git clone https://<your-repository-url>.
+2. Clone the Repository: Clone this repository using git clone [https://github.com/ssagarssaud/Kanban-Board.git].
 3. Install Dependencies: Navigate to the project directory and run npm install (or yarn install) to install all necessary dependencies.
 4. Start the Development Server: Run npm run dev (or yarn dev) to start the development server and access the Kanban board locally.
 
